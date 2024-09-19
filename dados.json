@@ -1,0 +1,73 @@
+
+[
+{
+    "id": 1,
+    "number": "1",
+    "imagem": "<img src='img/zumbi.png' width='200px'>" ,
+    "nome": "Zumbi de Sangue" ,
+    "elemento": "<br>Elemento: Sangue",
+    "vida": "Vida: 45 (Max)",
+    "habilidade": "<br>Habilidades:<br> <strong>Garras:</strong> Atacar corpo a corpo seu oponente",
+    "dano": "<br>Dano de vida: 45 (MAX) <br> Dano de sanidade: Nulo"
+},
+{
+    "id": 2,
+    "number": "2",
+    "imagem": "<img src='img/cobra.png' width='200px'>" ,
+    "nome": "Cobra de Lodo" ,
+    "elemento": "<br>Elemento: Morte",
+    "vida": "Vida: 46 (MAX)",
+    "habilidade": "<br>Habilidades:<br> <strong>Corpo Constritor:</strong> Ao encarar seus inimigos, a Cobra de Lodo se prende nos mesmos, os entrelaçando com seu corpo, os impossibilitando de atacar e de se mexer",
+    "dano": "<br>Dano de vida: Nulo <br> Dano de sanidade: Nulo"
+},
+{
+    "id": 3,
+    "number": "3",
+    "imagem": "<img src='img/existido.png' width='200px'>" ,
+    "nome": "Existidos de Energia" ,
+    "elemento": "<br>Elemento: Morte",
+    "vida": "Vida: 59 (MAX)",
+    "habilidade": "<br>Habilidades:<br> <strong>Encarar:</strong> Ao encarar um alvo próximo, o Existido de Energia pode causar um <br> dano significativo à sua sanidade.",
+    "dano": "<br>Dano de vida: Nulo <br> Dano de sanidade: 15 (MAX)"
+},
+{
+    "id": 4,
+    "number": "4",
+    "imagem": "<img src='img/degolificada.png' width='200px'>" ,
+    "nome": "Degolificada" ,
+    "elemento": "<br>Elemento: Morte, Energia, Conhecimento ou Sangue",
+    "vida": "Vida: 76 (MAX)",
+    "habilidade": "<br>Habilidades:<br> <strong>Degolificada Devorada:</strong> Ao absorver um alvo agarrado depois de matá-lo, a Degolificada se transforma em uma forma de <strong>Sangue</strong> maior e mais agressiva.<br> <strong>Degolificada Decrépita:</strong> Quando há muito tempo dedicado à Degolificada ao tentar atacá-la, ela se transforma em uma forma de <strong>Morte</strong> mais esquelética e retorcida.<br> <strong>Degolificada Conturbada:</strong> Caso a Degolificada enlouqueça alguém, ela se transforma em uma forma de <strong>Energia</strong> mais fantasmagórica e intangível.<br> <strong>Degolificada Gnóstica:</strong> Caso alguém falhe ao tentar confrontar a Degolificada com a causa de sua invocação, ela se transforma em uma forma de <strong>Conhecimento</strong> mais dourada e brilhosa.",
+    "dano": "<br>Dano de vida: 13 (MAX) <br> Dano de sanidade: 6 (MAX)"
+},
+{
+    "id": 5,
+    "number": "5",
+    "imagem": "<img src='img/carente.png' width='200px'>" ,
+    "nome": "Carente" ,
+    "elemento": "<br>Elemento: Sangue e Morte",
+    "vida": "Vida: 124 (MAX)",
+    "habilidade": "<br>Habilidades:<br> <strong>Carência:</strong> Quando presente a um indivíduo que já esteve envolvido em uma gravidez, ambos o monstro e o indivíduo ganham dado de ataque adicional em combates corpo a corpo.",
+    "dano": "<br>Dano de vida: Nulo <br> Dano de sanidade: Nulo"
+},
+{
+    "id": 6,
+    "number": "6",
+    "imagem": "<img src='img/succ.png' width='200px'>" ,
+    "nome": "Succ" ,
+    "elemento": "<br>Elemento: Morte e Energia",
+    "vida": "Vida: 56 (MAX)",
+    "habilidade": "<br>Habilidades:<br> <strong>Sucção:</strong> Sendo sua principal característica, o Succ possui a habilidade de sugar o ar de fora para dentro como um aspirador de pó, criando um vácuo em lugares pequenos. Ele faz uso disso ao prender sua boca no rosto de uma vítima para sugar todo o ar presente em seu pulmão, podendo matá-la asfixiada.",
+    "dano": "<br>Dano de vida: 20 (MAX) <br> Dano de sanidade: Nulo"
+},
+{
+    "id": 7,
+    "number": "7",
+    "imagem": "<img src='img/bilu.png' width='200px'>" ,
+    "nome": "Bilu" ,
+    "elemento": "<br>Elemento: ???",
+    "vida": "Vida: 47 (MAX)",
+    "habilidade": "<br>Habilidades: ???",
+    "dano": "<br>Dano de vida: Nulo <br> Dano de sanidade: Nulo"
+}
+]
